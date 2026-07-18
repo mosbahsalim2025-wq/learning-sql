@@ -1,1 +1,2 @@
-
+-- SQLZoo Tutorial 2: SELECT from nobel
+-- Status: Still not done / Work in progress
